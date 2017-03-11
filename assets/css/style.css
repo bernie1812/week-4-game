@@ -1,0 +1,25 @@
+body {
+	background-image: url("week-4-game/assets/images/background.jpeg");
+}
+
+
+.col-md-4 {
+	background: #ba6016;
+	color: white;
+	text-align: left;
+	padding-left: 0;
+	margin-bottom: 10px;
+}
+
+.col-md-7 {
+	padding-left: 0;
+	width: 50%;
+	background: #edc09c;
+	color: green;
+	height: 275px;
+}
+
+.col-md-7 p {
+	padding-left: 5px;
+	padding-top: 10px;
+}
