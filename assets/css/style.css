@@ -1,12 +1,13 @@
 body {
-	background-image: url("week-4-game/assets/images/background.jpeg");
+	background: gray;
+	margin: auto 0;
 }
 
 
 .col-md-4 {
 	background: #ba6016;
 	color: white;
-	text-align: left;
+	text-align: left;	
 	padding-left: 0;
 	margin-bottom: 10px;
 }
